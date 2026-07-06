@@ -1,58 +1,66 @@
-<br clear="both">
+# Hi, I'm Alen Jeeson 👋
 
-<div align="center">
-  <img height="250" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUwMTY4NzEsIm5iZiI6MTc1NTAxNjU3MSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODEyVDE2MzYxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1MWI3YmQ4NzUwYTNkOWFhYjdjOTA0YTliMGYxN2M0NGZhOWQxMjcxNjIwZDExYjk3ZjIyZDViODFlOTUxMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VXtWAu-oWvUa2MjJU4bXfrzPaWUaDd9TJ3b_VxQ1BQI"  />
-</div>
+**Design-First Frontend Developer** based in Bengaluru, India 🇮🇳
 
-###
+I bring 4+ years of professional experience in **video editing and graphic design** into the world of frontend development — blending visual design sense with clean, functional code.
 
-<br clear="both">
+---
 
-<p align="center">Hey 👋What's Up?<br><br> 👋 Hi, I’m Alen Jeeson <br><br>I’m a passionate **Frontend Developer** eager to build beautiful, responsive, and user-friendly web applications.  <br>Currently learning **HTML, CSS, JavaScript**, and modern frameworks like **React** to create interactive and accessible websites.  <br><br>
-### 🚀 What I’m Working On  <br>- Building small projects to strengthen my fundamentals  <br>- Learning **responsive design** and **JavaScript DOM manipulation**  <br>- Exploring **Git & GitHub** for version control and collaboration  <br><br>
-### 🛠 Skills  <br>- **Languages:** HTML5, CSS3, JavaScript (ES6+)  <br>- **Tools:** Git, GitHub, VS Code  <br>- **Currently Learning:** React.js, APIs, Responsive Design  <br><br>
-### 🎯 Goals  <br>- Complete several real-world projects and showcase them in my portfolio  <br>- Contribute to beginner-friendly open-source projects  <br>- Land my first job as a **Frontend Developer**  <br><br>E-mail : alenjeesonp@gmail.com<br><br>---<br>⭐ *Always open to learning, collaboration, and building cool stuff!*</p>
+### 🚀 About Me
 
-###
+- 🎨 Background in video editing & graphic design (worked with a church for 4+ years)
+- 💻 Self-taught frontend developer, currently building real-world projects
+- 🌱 Currently learning: **JavaScript → Tailwind CSS → React**
+- 🎯 Goal: Land a Junior React Developer role in Bengaluru's startup ecosystem
+- 🏗️ Long-term vision: Build a creative agency specializing in 3D, VFX & Animation
+- 🌍 Interested in open-source communities — exploring FOSS United & IndiaFOSS meetups
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
-</div>
+### 🛠️ Tech Stack
 
-###
+**Languages & Tools**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alen-jeeson/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/alen_jeeson/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31262443/alen-jeeson" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
-###
+**Currently Learning**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Live Link |
+|---|---|---|
+| **Brewline Coffee Co.** | Café landing page with warm editorial design | [View](https://alenjeeson0.github.io/Brewline-Coffee-Co/) |
+| **Temperature Conversion** | Vanilla JS temperature converter (°C ↔ °F) | [View](https://alenjeeson0.github.io/temperature-conversion/) |
+| **Number Guessing Game** | Simple JS logic game | [View](https://alenjeeson0.github.io/number_guessing_game/) |
+| **Random Number Generator** | Mini JS utility app | [View](https://alenjeeson0.github.io/random_number_generator/) |
+| **Counter Program** | Basic JS counter app | [View](https://alenjeeson0.github.io/Counter-Project/) |
+
+*(Replace `#` with your actual Netlify links)*
+
+---
+
+### 📈 GitHub Stats
+
+![Alen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alenjeeson&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/alen-jeeson/]
+- 📧 Email: [alenjeesonp@gmail.com]
+- 🌐 Portfolio: [Add your portfolio link]
+
+---
+
+*"Learn, Earn, Leap" — building skills, gaining experience, and eventually leaping into my own creative venture.*
