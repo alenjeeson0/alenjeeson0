@@ -51,7 +51,7 @@ I bring 4+ years of professional experience in **video editing and graphic desig
 
 ### 📈 GitHub Stats
 
-![Alen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alenjeeson0&show_icons=true&theme=radical)
+![Alen's GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=alenjeeson0&show_icons=true&theme=radical)
 
 ---
 
